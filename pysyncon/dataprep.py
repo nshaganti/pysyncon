@@ -1,5 +1,6 @@
 from __future__ import annotations
 from typing import Any, Iterable, Union, Optional, Literal, Sequence, Mapping, Tuple
+from typing_extensions import Literal
 
 import pandas as pd
 from pandas._typing import Axes
