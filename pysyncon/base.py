@@ -1,5 +1,6 @@
 from __future__ import annotations
-from typing import Optional, Literal
+from typing import Optional
+from typing_extensions import Literal
 from abc import ABCMeta, abstractmethod
 
 import numpy as np
